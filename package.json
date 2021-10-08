@@ -1,0 +1,26 @@
+{
+  "name": "accesskey-decoder",
+  "version": "1.0.0",
+  "description": "A simple project to create an access key decoder for brazilian invoices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiquegarcia/accesskey-decoder.git"
+  },
+  "keywords": [
+    "brazilian",
+    "invoice",
+    "access",
+    "key",
+    "decoder"
+  ],
+  "author": "Kaique Garcia <contato@kaiquegarcia.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaiquegarcia/accesskey-decoder/issues"
+  },
+  "homepage": "https://github.com/kaiquegarcia/accesskey-decoder#readme"
+}
