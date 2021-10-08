@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/kaiquegarcia/accesskey-decoder/issues"
   },
-  "homepage": "https://github.com/kaiquegarcia/accesskey-decoder#readme"
+  "homepage": "https://github.com/kaiquegarcia/accesskey-decoder#readme",
+  "publishConfig": {
+    "@kaiquegarcia:registry": "https://npm.pkg.github.com"
+  }
 }
