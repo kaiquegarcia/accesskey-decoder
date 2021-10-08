@@ -3,7 +3,18 @@
 
 A simple project to create an access key decoder for brazilian invoices.
 
-Composing sources:
+## 1 - How to use
+
+1. Install Node.js on your machine;
+2. Run `node ./src/index.js`, them you'll be asked for an access key;
+3. Paste the access key and type **Enter**;
+4. The program will decode and tell you the state, the model of the access key and show the Access Key entity;
+5. Then it'll ask for a new access key;
+6. You can leave by typing `quit`, `exit`, `leave`, `stop` or just press `Ctrl+C`.
+
+Have fun!
+
+## 2 - Sources:
 
 * https://enotas.com.br/blog/chave-de-acesso/#indice-1
 * https://www.valor.srv.br/guias/guiasIndex.php?idGuia=348
