@@ -6,10 +6,10 @@ A simple project to create an access key decoder for brazilian invoices.
 ## 1 - How to use
 
 1. Install Node.js on your machine;
-2. Run `node ./src/index.js`, them you'll be asked for an access key;
+2. Run `node ./src/index.js`, then you'll be asked for an access key;
 3. Paste the access key and type **Enter**;
 4. The program will decode and tell you the state, the model of the access key and show the Access Key entity;
-5. Then it'll ask for a new access key;
+5. Then it'll ask for a new access key (recursive loop);
 6. You can leave by typing `quit`, `exit`, `leave`, `stop` or just press `Ctrl+C`.
 
 Have fun!
